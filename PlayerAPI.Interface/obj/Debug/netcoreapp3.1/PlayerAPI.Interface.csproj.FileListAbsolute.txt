@@ -1,0 +1,14 @@
+F:\MY WORK\PlayerAPI\PlayerAPI.Interface\bin\Debug\netcoreapp3.1\PlayerAPI.Interface.deps.json
+F:\MY WORK\PlayerAPI\PlayerAPI.Interface\bin\Debug\netcoreapp3.1\PlayerAPI.Interface.dll
+F:\MY WORK\PlayerAPI\PlayerAPI.Interface\bin\Debug\netcoreapp3.1\PlayerAPI.Interface.pdb
+F:\MY WORK\PlayerAPI\PlayerAPI.Interface\bin\Debug\netcoreapp3.1\PlayerAPI.ViewModels.dll
+F:\MY WORK\PlayerAPI\PlayerAPI.Interface\bin\Debug\netcoreapp3.1\PlayerAPI.ViewModels.pdb
+F:\MY WORK\PlayerAPI\PlayerAPI.Interface\obj\Debug\netcoreapp3.1\PlayerAPI.Interface.csproj.AssemblyReference.cache
+F:\MY WORK\PlayerAPI\PlayerAPI.Interface\obj\Debug\netcoreapp3.1\PlayerAPI.Interface.AssemblyInfoInputs.cache
+F:\MY WORK\PlayerAPI\PlayerAPI.Interface\obj\Debug\netcoreapp3.1\PlayerAPI.Interface.AssemblyInfo.cs
+F:\MY WORK\PlayerAPI\PlayerAPI.Interface\obj\Debug\netcoreapp3.1\PlayerAPI.Interface.csproj.CoreCompileInputs.cache
+F:\MY WORK\PlayerAPI\PlayerAPI.Interface\obj\Debug\netcoreapp3.1\PlayerAPI.Interface.csproj.CopyComplete
+F:\MY WORK\PlayerAPI\PlayerAPI.Interface\obj\Debug\netcoreapp3.1\PlayerAPI.Interface.dll
+F:\MY WORK\PlayerAPI\PlayerAPI.Interface\obj\Debug\netcoreapp3.1\PlayerAPI.Interface.pdb
+F:\MY WORK\PlayerAPI\PlayerAPI.Interface\bin\Debug\netcoreapp3.1\PlayerAPI.Models.dll
+F:\MY WORK\PlayerAPI\PlayerAPI.Interface\bin\Debug\netcoreapp3.1\PlayerAPI.Models.pdb

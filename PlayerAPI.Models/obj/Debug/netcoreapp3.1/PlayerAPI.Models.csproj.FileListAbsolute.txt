@@ -1,0 +1,9 @@
+F:\MY WORK\PlayerAPI\PlayerAPI.Models\bin\Debug\netcoreapp3.1\PlayerAPI.Models.deps.json
+F:\MY WORK\PlayerAPI\PlayerAPI.Models\bin\Debug\netcoreapp3.1\PlayerAPI.Models.dll
+F:\MY WORK\PlayerAPI\PlayerAPI.Models\bin\Debug\netcoreapp3.1\PlayerAPI.Models.pdb
+F:\MY WORK\PlayerAPI\PlayerAPI.Models\obj\Debug\netcoreapp3.1\PlayerAPI.Models.csproj.AssemblyReference.cache
+F:\MY WORK\PlayerAPI\PlayerAPI.Models\obj\Debug\netcoreapp3.1\PlayerAPI.Models.AssemblyInfoInputs.cache
+F:\MY WORK\PlayerAPI\PlayerAPI.Models\obj\Debug\netcoreapp3.1\PlayerAPI.Models.AssemblyInfo.cs
+F:\MY WORK\PlayerAPI\PlayerAPI.Models\obj\Debug\netcoreapp3.1\PlayerAPI.Models.csproj.CoreCompileInputs.cache
+F:\MY WORK\PlayerAPI\PlayerAPI.Models\obj\Debug\netcoreapp3.1\PlayerAPI.Models.dll
+F:\MY WORK\PlayerAPI\PlayerAPI.Models\obj\Debug\netcoreapp3.1\PlayerAPI.Models.pdb

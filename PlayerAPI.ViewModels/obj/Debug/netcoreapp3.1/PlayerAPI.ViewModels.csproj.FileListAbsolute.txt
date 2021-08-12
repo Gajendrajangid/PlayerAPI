@@ -1,0 +1,9 @@
+F:\MY WORK\PlayerAPI\PlayerAPI.ViewModels\bin\Debug\netcoreapp3.1\PlayerAPI.ViewModels.deps.json
+F:\MY WORK\PlayerAPI\PlayerAPI.ViewModels\bin\Debug\netcoreapp3.1\PlayerAPI.ViewModels.dll
+F:\MY WORK\PlayerAPI\PlayerAPI.ViewModels\bin\Debug\netcoreapp3.1\PlayerAPI.ViewModels.pdb
+F:\MY WORK\PlayerAPI\PlayerAPI.ViewModels\obj\Debug\netcoreapp3.1\PlayerAPI.ViewModels.csproj.AssemblyReference.cache
+F:\MY WORK\PlayerAPI\PlayerAPI.ViewModels\obj\Debug\netcoreapp3.1\PlayerAPI.ViewModels.AssemblyInfoInputs.cache
+F:\MY WORK\PlayerAPI\PlayerAPI.ViewModels\obj\Debug\netcoreapp3.1\PlayerAPI.ViewModels.AssemblyInfo.cs
+F:\MY WORK\PlayerAPI\PlayerAPI.ViewModels\obj\Debug\netcoreapp3.1\PlayerAPI.ViewModels.csproj.CoreCompileInputs.cache
+F:\MY WORK\PlayerAPI\PlayerAPI.ViewModels\obj\Debug\netcoreapp3.1\PlayerAPI.ViewModels.dll
+F:\MY WORK\PlayerAPI\PlayerAPI.ViewModels\obj\Debug\netcoreapp3.1\PlayerAPI.ViewModels.pdb
